@@ -1,5 +1,5 @@
 # uav_det
-uav detection by yolov8
+UAV detection under yolov8
 
 # IMPORTANT
-THe code will be avaliable after our paper published!!
+The code will be available after our paper is accepted!!
