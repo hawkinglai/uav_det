@@ -12,6 +12,6 @@ https://github.com/ma-xu/pointMLP-pytorch/issues/42
 
 # Citation
 If you use our implementation of Loss Landscape in YOLOv8
-plz cite our work, thanks!
+plz cite our work, thanks!\n
 YOLOv8-lite: An Interpretable Lightweight Object Detector for Real-Time UAV Detection
 
