@@ -17,12 +17,13 @@ https://github.com/ultralytics/ultralytics
 https://github.com/ma-xu/pointMLP-pytorch/issues/42
 
 # Citation
-If you use our implementation of Loss Landscape in YOLOv8
-plz cite our work, thanks!
+If you use our implementation of Loss Landscape in YOLOv8<br>
+plz cite our work, thanks!<br>
 
-@article{laiyolov8inter2023,<br>
+@inproceedings{laiyolov8inter2023,<br>
   title={YOLOv8-lite: An Interpretable Lightweight Object Detector for Real-Time UAV Detection},<br>
   author={Hawking Lai, Bowie Liu, Ho Yin Kan, Chan-Tong Lam, Sio Kei Im},<br>
-  journal={Radioelectronics and Communications Systems},<br>
-  year={2023}<br>
+  booktitle={2023 IEEE 9th International Conference on Computer and Communications (ICCC)},<br>
+  year={2023},<br>
+  organization={IEEE}<br>
 }
