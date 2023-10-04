@@ -14,5 +14,9 @@ https://github.com/ma-xu/pointMLP-pytorch/issues/42
 If you use our implementation of Loss Landscape in YOLOv8
 plz cite our work, thanks!
 
-YOLOv8-lite: An Interpretable Lightweight Object Detector for Real-Time UAV Detection
-
+@article{laiyolov8inter2023,
+  title={YOLOv8-lite: An Interpretable Lightweight Object Detector for Real-Time UAV Detection},
+  author={Hawking Lai, Bowie Liu, Ho Yin Kan, Chan-Tong Lam, Sio Kei Im},
+  journal={Radioelectronics and Communications Systems},
+  year={2023}
+}
