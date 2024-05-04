@@ -20,10 +20,13 @@ https://github.com/ma-xu/pointMLP-pytorch/issues/42
 If you use our implementation of Loss Landscape in YOLOv8<br>
 plz cite our work, thanks!<br>
 
-@inproceedings{laiyolov8inter2023,<br>
-  title={YOLOv8-lite: An Interpretable Lightweight Object Detector for Real-Time UAV Detection},<br>
-  author={Hawking Lai, Bowie Liu, Ho Yin Kan, Chan-Tong Lam, Sio Kei Im},<br>
-  booktitle={2023 IEEE 9th International Conference on Computer and Communications (ICCC)},<br>
-  year={2023},<br>
-  organization={IEEE}<br>
-}
+@INPROCEEDINGS{10507293,
+  author={Lai, Hawking and Liu, Bowie and Kan, Ho Yin and Lam, Chan-Tong and Im, Sio Kei},
+  booktitle={2023 9th International Conference on Computer and Communications (ICCC)}, 
+  title={YOLOv8-lite: An Interpretable Lightweight Object Detector for Real-Time UAV Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1707-1713},
+  keywords={Convolutional codes;Privacy;Convolution;Atmospheric modeling;Decision making;Machine learning;Detectors;Object detection;UAV detection;YOLOv8;Depthwise convolution;Interpretable machine learning},
+  doi={10.1109/ICCC59590.2023.10507293}}
